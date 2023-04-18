@@ -55,7 +55,7 @@ defmodule Money.Currency do
     BYN: %{name: "Belarusian Ruble", symbol: "p.", exponent: 2, number: 933},
     BYR: %{name: "Belarusian Ruble", symbol: "p.", exponent: 0, number: 933},
     BZD: %{name: "Belize Dollar", symbol: "BZ$", exponent: 2, number: 084},
-    CAD: %{name: "Canadian Dollar", symbol: "Can$", exponent: 2, number: 124},
+    CAD: %{name: "Canadian Dollar", symbol: "$", exponent: 2, number: 124},
     CDF: %{name: "Congolese Franc", symbol: "CF", exponent: 2, number: 976},
     CHF: %{name: "Swiss Franc", symbol: "CHF", exponent: 2, number: 756},
     CLF: %{name: "Chilean Peso Unidades de fomento", symbol: "$", exponent: 4, number: 990},
